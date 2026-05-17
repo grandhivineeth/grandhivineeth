@@ -88,16 +88,6 @@ Recurrent Neural Network built for **IMDB sentiment classification** — explore
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grandhivineeth&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grandhivineeth&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160" />
-</p>
-
----
-
 ## Let's Connect
 
 I'm always open to discussing full stack engineering, cloud architecture, or data science projects.
